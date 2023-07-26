@@ -12,7 +12,8 @@
   "author": "Jesse Schulman <jesse@telos.net>",
   "license": "MIT",
   "dependencies": {
-    "@greymass/eosio": "^0.7.0"
+    "@greymass/eosio": "^0.7.0",
+    "axios": "^1.4.0"
   },
   "devDependencies": {
     "@types/node": "^18.11.7",
