@@ -1,0 +1,21 @@
+{
+  "name": "telos-governance-ipfs",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint . --ext .ts",
+    "lint:fix": "eslint --fix --ext .ts, src",
+    "build": "rm -rf ./dist && tsc --build"
+  },
+  "repository": "https://github.com/telosnetwork/telos-governance-ipfs",
+  "author": "Jesse Schulman <jesse@telos.net>",
+  "license": "MIT",
+  "dependencies": {
+    "@greymass/eosio": "^0.7.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.7",
+    "typescript": "^4.8.4"
+  }
+}
