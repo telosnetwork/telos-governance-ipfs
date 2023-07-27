@@ -1,4 +1,0 @@
-{
-    apiEndpoint: "https://mainnet.telos.net",
-    ipfsEndpoint: "http://localhost:5001"
-}
