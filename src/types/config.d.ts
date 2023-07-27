@@ -1,4 +1,4 @@
 export interface PinnerConfig {
     apiEndpoint: string
-    ipfsEndpoint: string
+    ipfsEndpoints: string[]
 }
