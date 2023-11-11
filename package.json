@@ -13,7 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "@greymass/eosio": "^0.7.0",
-    "axios": "^1.4.0",
+    "axios": "^1.6.0",
     "multiformats": "^12.0.1"
   },
   "devDependencies": {
